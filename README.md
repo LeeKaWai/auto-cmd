@@ -15,7 +15,7 @@
 ### 从源码编译
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:LeeKaWai/auto-cmd.git
 cd auto-cmd
 go build -o qc.exe  # Windows
 # 或
